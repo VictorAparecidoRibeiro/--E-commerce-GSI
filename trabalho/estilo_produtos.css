@@ -1,0 +1,86 @@
+#mae_m
+{   
+	width: 800px;
+
+	background-color: #EEEEE0;
+	font-family: 'Poiret One', cursive;
+	float: left;
+}
+
+#resultado_m
+{
+	width: 600px;
+	height: 960px;
+	float: left;
+	border: 1px solid white;
+	background-color: #778899;
+	font-family: 'Poiret One', cursive;
+}
+
+#produto_m
+{   
+	width: 198px;
+	height: 318px;
+	float: left;
+	background-color: #778899;
+	border: 1px solid white;
+	font-family: 'Poiret One', cursive;
+}
+
+.btn_comprar_m, .btn_submit_m, .btn_reset_m
+{
+  display: inline-block;
+  border-radius: 7px;
+  background-color: #b30000;
+  border: none;
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+  padding: 5px;
+  width: 90px;
+  color: white;
+  -webkit-appearance: none;
+}
+
+.btn_comprar_m:hover, .btn_submit_m:hover, .btn_reset_m:hover
+{
+	background-color: #cd0000;
+	cursor: pointer;
+	font-family: 'Poiret One', cursive;
+}
+ 
+#pesquisa_m
+{
+	width: 198px;
+	
+	float: left;
+	background-color: #34495E;
+	text-align: left;
+	font-family: 'Poiret One', cursive;
+	color: white;
+}
+
+#pagina_m
+{
+	width: 602px;
+	height: 38px;
+	float: left;
+	background-color: #A8B1B9;
+	line-height: 38px;
+	font-family: 'Poiret One', cursive;
+}
+
+#textbox_nome_m
+{
+	font-family: 'Raleway', sans-serif;
+	font-size: 12;
+	width: 180px;
+    color: black;
+}
+
+#fonte_m
+{
+	font-family: 'Raleway', sans-serif;
+	font-size: 12;
+    color: black;
+}

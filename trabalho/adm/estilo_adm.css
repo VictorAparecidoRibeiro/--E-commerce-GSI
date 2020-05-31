@@ -1,0 +1,62 @@
+Body {
+    background-image: url(imagens/plano8.jpg);
+    margin-top: 0px;
+	font-family:verdana;
+	font-size: 12;
+	
+}
+
+h1 {
+	font-size: 14;
+}
+#mae_adm {   
+
+	 width: 800px;
+	 
+	 background-color: white;
+     	
+	 
+}
+
+#barra_adm
+{
+	width:800px;
+	height:25px;
+	float:left;
+
+		
+}
+#btn
+{
+	border-bottom:2px solid black;
+	float:left;
+	line-height:20px;
+	width:100px;
+	height:25px;
+	background-color:white;
+}
+
+#btn:hover
+{
+	background-color:gray;
+}
+
+a:link
+{
+	text-decoration:none;
+	color:black;
+}
+a:visited
+{
+	text-decoration:none;
+	color:black;
+}
+a:hover
+{
+	text-decoration:none;
+	color:black;
+}
+.link_adm:hover
+{
+	color:white;
+}

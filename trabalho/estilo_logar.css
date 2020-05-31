@@ -1,0 +1,117 @@
+#registro
+{
+	margin-top:10px;
+	float:center;
+	width:300px;
+	height:423px;
+	background-color:white;
+	border: 5px solid #700;
+	margin-bottom:50px;
+	
+}
+
+#campo_senha_r
+{
+	text-align:left;
+	float:left;
+	width:300px;
+	height:70px;
+	background-color:white;
+}
+
+.campo_registro2
+{
+	float:right;
+	text-align:left;
+	width:220px;
+	background-color:white;	
+	height:35px;
+}
+
+.campo_registro1
+{
+	line-height:35px;
+	float:left;
+	width:80px;
+	height:35px;
+	background-color:white;
+	
+}
+
+
+
+#campo_login_r
+{
+	
+	width:300px;
+	
+	float:left;
+	text-align:left;
+	background-color:white;
+	
+}
+
+#cadastro_nome
+{
+	width:300px;
+	
+	float:left;
+	text-align:left;
+	background-color:white;	
+}
+
+
+#cadastro_sobrenome
+{
+	
+	
+	width:300px;
+	
+	float:left;
+	text-align:left;
+	background-color:white;
+}
+
+
+#cadastro_data-nasc
+{
+	width:200px;
+	height:40px;
+	float:left;
+	text-align:left;
+	background-color:white;
+}
+
+
+#cadastro_genero
+{
+	
+	width:200px;
+	height:120px;
+	float:left;
+	text-align:left;
+	background-color:white;
+	
+}
+
+#cadastro_email
+{
+	width:300px;
+
+	float:left;
+	text-align:left;
+	background-color:white;
+}
+
+
+#input_r
+{
+	width:300px;
+	height:40px;
+	float:left;
+	text-align:center;
+	background-color:white;
+	
+	
+	
+}

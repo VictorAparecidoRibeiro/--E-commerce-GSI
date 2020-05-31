@@ -1,0 +1,71 @@
+Body {
+    background-image: url(imagens/plano8.jpg);
+    margin-top: 0px;
+	font-family:verdana;
+	font-size: 12;
+	
+}
+
+h1 {
+	font-size: 14;
+}
+#mae_adm {   
+
+	 width: 800px;
+	 height:1415px; 
+	 background-color: white;
+     	
+	 
+}
+#mae_usuarios
+{   
+
+	 width: 800px;
+	 height:1415px; 
+	 background-color: white;
+     	
+	 
+}
+#exclusao
+{   
+
+	 width: 800px;
+	 height:500px; 
+	 background-color: white;
+     	
+	 
+}
+#restaurar
+{   
+
+	 width: 800px;
+	 
+	 background-color: white;
+     	
+		}	 
+#con_restaurar
+{   
+
+	 width: 800px;
+	 height:500px; 
+	 background-color: white;
+     	
+	 
+}
+
+
+#formulario
+{
+	width:500px;
+	height:350px;
+	background-color:white;
+	float:left;
+}
+
+#campo_input,#campo_texto
+{
+	width:250px;
+	height:35px;
+	float:left;
+	background-color:white;
+}

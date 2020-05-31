@@ -1,0 +1,52 @@
+Body {
+    background-image: url(imagens/plano8.jpg);
+    margin-top: 0px;
+	font-family:verdana;
+	font-size: 12;
+	
+}
+
+h1 {
+	font-size: 14;
+}
+#mae_adm {   
+
+	 width: 800px;
+	 height:1415px; 
+	 background-color: white;
+     	
+	 
+}
+#mae_usuarios
+{   
+
+	 width: 800px;
+	
+	 background-color: white;
+     	
+	 
+}
+#exclusao
+{   
+
+	 width: 800px;
+	 
+	 background-color: white;
+     	
+	 
+}
+
+#restaurar
+{
+	width:800px;
+	background-color:white;
+}
+
+#mae_alt_prod {   
+
+	 width: 800px;
+	 height:1415px; 
+	 background-color: white;
+     	
+	 
+}

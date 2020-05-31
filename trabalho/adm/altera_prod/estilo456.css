@@ -1,0 +1,87 @@
+Body {
+    background-image: url(imagens/plano8.jpg);
+    margin-top: 0px;
+	font-family:verdana;
+	font-size: 12;
+	
+}
+
+h1 {
+	font-size: 14;
+}
+#mae_adm {   
+
+	 width: 800px;
+	 height:1415px; 
+	 background-color: white;
+     	
+	 
+}
+#teste
+{
+	width:800px;
+	height:1000px;
+	background-color:red;
+}
+#mae_usuarios
+{   
+
+	 width: 800px;
+	 height:1415px; 
+	 background-color: white;
+     	
+	 
+}
+#exclusao
+{   
+
+	 width: 800px;
+	 height:500px; 
+	 background-color: white;
+     	
+	 
+}
+#mae_altprod
+{   
+
+	 width: 800px;
+	 height:2200px; 
+	 background-color: white;
+     	
+	 
+}
+#mae_conf1
+{   
+
+	 width: 800px;
+	 height:420px; 
+	 background-color: white;
+     	
+	 
+}
+#atributos
+{
+     width: 800px;
+	 height:  300px; 
+	      float:left;
+	 background-color: white;
+}
+.A
+{
+	 width: 600px;
+	 height: 20px; 
+	 background-color: white;
+}
+.B
+{
+	 width: 110px;
+	 height: 20px; 
+ float:left;
+	 background-color: white;
+}
+.C
+{
+	 width: 490px;
+	 height: 20px; 
+	 background-color: white;
+}

@@ -1,0 +1,586 @@
+
+Body {
+    background-image: url(imagens/plano8.jpg);
+    margin-top: 0px;
+	font-family:verdana;
+	font-size: 12;
+	
+}
+
+h1 {
+	font-size: 14;
+}
+#mae {   
+
+	 width: 800px;
+	 height:1415px; 
+	 background-color: white;
+     	
+	 
+}
+	 
+#home_inicio
+{
+	background-color:white;
+	width:800px;
+	height:120px;
+
+
+}
+
+#logo {
+	
+	 background-color: white ;
+     width:800;
+     height:115px;
+     float:left;
+	 border-bottom: 7px solid white;
+}
+#img_logo {
+	
+	 background-color: white;
+     width: 225;
+     height:100;
+     float:left;
+}
+#menu {
+	 background-color: white;
+    	 float:left;
+    	 width: 800;
+    	 height:50;  
+	 border-left: 0px;
+	 border-right: 0px;
+	 border-bottom: 1px solid white;
+	 border-top: 1px solid white;
+	 font-size:14;
+	 
+} 
+#btn {
+	 margin-left:8.5px;
+	
+     background-color: 700000;
+     float:left; 
+     width: 150px;
+     height:40;
+	 color: white;
+	 font-size:14;
+	 text-decoration: none;
+	 line-height: 38px;
+	 border-radius:0.6em;
+}
+#btn2 {
+	 margin-left:8.5px;
+	
+     background-color: 700000;
+     float:left; 
+     width: 150px;
+     height:40;
+	 color: white;
+	 font-size:14;
+	 text-decoration: none;
+	 line-height: 38px;
+	 border-radius:0.6em;	
+	
+}
+#btn:hover {
+	background-color: #A0522D;
+        color:black;
+	text-decoration: none;
+}
+#back{
+	
+	width:800px;
+	height:20px;
+	background-color: white;
+	float:left;
+}
+
+#links
+{
+	 background-color: white;
+	 float:left; 
+     width: 800;
+     height: 40;
+
+	 text-decoration: none;
+}
+#banner{
+	 margin-bottom:10px;
+	 margin-top: 10px;
+	 background-color: white;
+     float:left; 
+     width: 800px;
+     height: 350px;
+     border: 0px;
+	
+}
+#texto1{
+	 background-color: white;
+     float:left; 
+     width: 800;
+     height: 60;
+}
+#img_tex{
+	font-size:12;
+	background-color: white;
+     float:left; 
+     width: 800;
+     height: 420;
+	 border: 0px ;
+}
+#kit{
+	 background-color: white;
+     float:left; 
+     width: 266px;
+     height: 420px;
+}
+.a1{
+	;
+	background-position:top;
+	background-repeat: no-repeat;
+	width: 260;
+	height: 300;
+}
+.a2{
+	
+	
+	background-position:top;
+	background-repeat: no-repeat;
+	width: 260;
+	height: 300;
+}
+.a3{
+	
+	
+	background-position:top;
+	background-repeat: no-repeat;
+	width: 260;
+	height: 300;
+}
+#tex_fil
+{
+	background-color: white;
+     float:left; 
+     width: 800;
+     height: 280;
+	 border: 0px;
+}
+#text{
+	
+     float:left; 
+     width: 280;
+     height: 280;
+	 margin-left:10px;
+	 font-size: 12px;
+ 	background-color: white;
+	text-align:left;
+}
+#filme{
+	 background-color: white;
+     float:left; 
+     width: 500;
+     height: 280;
+}
+
+#icones_logo
+{
+	background-color: white;
+	width:400px;
+	float:right;
+	height: 100px;
+	
+}
+
+#icone_carrinho 
+{
+	width:200px;
+	float:left;
+	height:100px;
+	background-color:white;
+	
+}
+
+#icone_loguin
+{
+	width:200px;
+	float:right;
+	height:100px;
+	background-color:white;
+	
+	
+}
+
+#desenvolvedores{
+	
+	text-decoration:none;
+	width:800px;
+	height:60px;
+	background-color: white;
+	float:left;
+	
+}
+
+
+#de_1
+{
+	margin-top:5px;
+	margin-left:5px;
+	height:20px;
+	width:195px;
+	float:left;
+}
+
+#de_2
+{
+	margin-top:5px;
+	margin-left:5px;
+	height:20px;
+	width:195px;
+	float:left;
+}
+
+#de_3
+{
+	margin-top:5px;
+	margin-left:5px;
+	height:20px;
+	width:195px;
+	float:left;
+}
+#de_4
+{
+	margin-top:5px;
+	margin-left:5px;
+	height:20px;
+	width:195px;
+	float:left;
+}
+
+
+
+a:link { text-decoration:none;}
+v:link { text-decoration:none;}
+.link 
+{
+	color:red;
+	text-decoration:none;
+		
+	
+}
+a:visited
+{
+	text-decoration:none;
+	color:blue;
+		
+}
+a:hover
+{
+	text-decoration:none;
+	color:red;
+		
+}
+
+.textos{
+	height:20px;
+	width:260px;
+	font-size: 12px;
+	background-color: white;
+	font-family:verdana;
+	text-align:left;
+}
+
+a.saiba_mais { 
+ 
+  text-decoration: none;
+  color: red;
+  
+}
+
+a.saiba_mais:hover{
+
+ text-decoration: none;
+ color: blue;
+
+}
+
+#texto_loguin{
+	
+	background-color:white;
+	width:200px;
+	height:15px;
+	float:left;
+	
+}
+
+#img_carrinho{
+	
+	width:85px;
+	height:85px;
+	background-color:white;
+}
+
+#img_carrinho:hover{
+	
+	width:85px;
+	height:85px;
+}
+
+#texto_carrinho
+{
+	background-color:white;
+	width:200px;
+	height:15px;
+	float:left;
+	
+}
+
+.dropbtn {
+    background-color: #700000;
+    color: white;
+    padding: 16px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+	width:150px;
+	height:40px;
+	border-radius:0.6em;
+	line-height: 10px;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #700000;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+
+.dropdown-content a {
+    color: white;
+   
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown-content a:hover {background-color:#A0522D;
+color:black;}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+	 background-color: #700000;
+	 
+}
+
+
+.dropdown:hover .dropbtn {
+    background-color: #A0522D;
+	border-radius:0em;
+	
+}
+.dropdown-img {
+    position: relative;
+    display: inline-block;
+	border:2px;
+}
+
+.dropdown-content-img {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+}
+
+.dropdown-img:hover .dropdown-content-img {
+    display: block;
+		
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.dropdown-img2 {
+    position: relative;
+    display: inline-block;
+	border:2px;
+}
+
+.dropdown-content-img2 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+}
+
+.dropdown-img2:hover .dropdown-content-img2{
+    display: block;
+		
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.dropdown-img3 {
+    position: relative;
+    display: inline-block;
+	border:2px;
+}
+
+.dropdown-content-img3 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+}
+
+.dropdown-img3:hover .dropdown-content-img3{
+    display: block;
+		
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+/*--------------------------------------------DESENVOLVEDORES------------------------------------------------*/
+#mae4 {   
+
+	 width: 800px;
+	 height:1000px; 
+	 background-color: white;
+     	
+	 
+}
+#des
+{
+	background-color: white;
+	 width: 800;
+	 height:705;
+	 float:left;
+     border: 0px solid black;
+	
+}
+#dentro
+{
+     width: 800;
+	 height: 720;
+	 float:left;
+     border: 0px solid black;
+	 margin:22px;
+	 margin-top:0px;
+}
+#img_mandala
+{
+	 width: 200px;
+	 height: 700;
+	 float:left;
+     border: 1px solid black;
+	 border-right: 0px solid black;
+	 
+	
+}
+#dados
+{
+	 width: 560;
+	 height: 700;
+	 float:left;
+     border: 1px solid black;
+	
+}
+#ab1
+{
+	 width: 500;
+	 height: 100;
+	 float:left;
+     border: 1px solid black;
+	 margin: 10px;
+	 margin-top: 5px;
+}
+#foto
+{
+	 width: 100;
+	 height: 100;
+	 float:left;
+	 border-right: 1px solid black;
+
+}
+#email
+{
+	 width: 390;
+	 height: 90;
+	 float:left;
+	 padding: 3px;
+}
+
+
+/*  Login e Registro abaixo */
+
+
+#submae
+{
+	float:left;
+	width:790px;
+	height:600px;
+	background-color:red;
+	margin-bottom:50px;
+	
+}
+
+#login
+{
+	float:center;
+	
+	width:760px;
+	height:250px;
+	background-color:yellow;
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+/* FINAL DO LOGIN E REGISTRO */
+
+
+
+
+
+
+
+
+
+
+
+
+

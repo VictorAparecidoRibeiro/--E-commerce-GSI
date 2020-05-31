@@ -1,0 +1,1360 @@
+/*ESSE É O PRINCIPAL*/
+Body {
+    background-image: url(imagens/plano8.jpg);
+    margin-top: 0px;
+	font-family:verdana;
+	font-size: 12;
+	
+}
+
+h1 {
+	font-size: 14;
+}
+#mae {   
+
+	 width: 800px;
+	 height:1415px; 
+	 background-color: white;
+     	
+	 
+}
+	 
+#home_inicio
+{
+	background-color:white;
+	width:800px;
+	height:120px;
+
+
+}
+
+#logo {
+	
+	 background-color: white ;
+     width:800;
+     height:115px;
+     float:left;
+	 border-bottom: 7px solid white;
+}
+#img_logo {
+	
+	 background-color: white;
+     width: 225;
+     height:100;
+     float:left;
+}
+#menu {
+	 background-color: white;
+    	 float:left;
+    	 width: 800;
+    	 height:50;  
+	 border-left: 0px;
+	 border-right: 0px;
+	 border-bottom: 1px solid white;
+	 border-top: 1px solid white;
+	 font-size:14;
+	 
+} 
+#btn {
+	 margin-left:8.5px;
+	
+     background-color: 700000;
+     float:left; 
+     width: 150px;
+     height:40;
+	 color: white;
+	 font-size:14;
+	 text-decoration: none;
+	 line-height: 38px;
+	 border-radius:0.6em;
+}
+#btn2 {
+	 margin-left:8.5px;
+	
+     background-color: 700000;
+     float:left; 
+     width: 150px;
+     height:40;
+	 color: white;
+	 font-size:14;
+	 text-decoration: none;
+	 line-height: 38px;
+	 border-radius:0.6em;	
+	
+}
+#btn:hover {
+	background-color: #A0522D;
+        color:black;
+	text-decoration: none;
+}
+#back{
+	
+	width:800px;
+	height:20px;
+	background-color: white;
+	float:left;
+}
+
+#links
+{
+	 background-color: white;
+	 float:left; 
+     width: 800px;
+     height: 40px;
+	 border-top: 8px solid white;
+
+	 text-decoration: none;
+}
+#banner{
+	 margin-bottom:10px;
+	 margin-top: 10px;
+	 background-color: white;
+     float:left; 
+     width: 800px;
+     height: 350px;
+     border: 0px;
+	
+}
+#texto1{
+	 background-color: white;
+     float:left; 
+     width: 800;
+     height: 60;
+}
+#img_tex{
+	font-size:12;
+	background-color: white;
+     float:left; 
+     width: 800;
+     height: 420;
+	 border: 0px ;
+}
+#kit{
+	 background-color: white;
+     float:left; 
+     width: 266px;
+     height: 420px;
+}
+.a1{
+	;
+	background-position:top;
+	background-repeat: no-repeat;
+	width: 260;
+	height: 300;
+}
+.a2{
+	
+	
+	background-position:top;
+	background-repeat: no-repeat;
+	width: 260;
+	height: 300;
+}
+.a3{
+	
+	
+	background-position:top;
+	background-repeat: no-repeat;
+	width: 260;
+	height: 300;
+}
+#tex_fil
+{
+	background-color: white;
+     float:left; 
+     width: 800;
+     height: 280;
+	 border: 0px;
+}
+#text{
+	
+     float:left; 
+     width: 280;
+     height: 280;
+	 margin-left:10px;
+	 font-size: 12px;
+ 	background-color: white;
+	text-align:left;
+}
+#filme{
+	 background-color: white;
+     float:left; 
+     width: 500;
+     height: 280;
+}
+
+#icones_logo
+{
+	background-color: white;
+	width:400px;
+	float:right;
+	height: 100px;
+	
+}
+
+#icone_carrinho 
+{
+	width:200px;
+	float:left;
+	height:100px;
+	background-color:white;
+	
+}
+
+#icone_loguin
+{
+	width:200px;
+	float:right;
+	height:100px;
+	background-color:white;
+	
+	
+}
+
+#desenvolvedores{
+	
+	text-decoration:none;
+	width:800px;
+	height:60px;
+	background-color: white;
+	float:left;
+	
+}
+
+
+#de_1
+{
+	margin-top:5px;
+	margin-left:5px;
+	height:20px;
+	width:195px;
+	float:left;
+}
+
+#de_2
+{
+	margin-top:5px;
+	margin-left:5px;
+	height:20px;
+	width:195px;
+	float:left;
+}
+
+#de_3
+{
+	margin-top:5px;
+	margin-left:5px;
+	height:20px;
+	width:195px;
+	float:left;
+}
+#de_4
+{
+	margin-top:5px;
+	margin-left:5px;
+	height:20px;
+	width:195px;
+	float:left;
+}
+
+
+
+a:link { text-decoration:none;}
+v:link { text-decoration:none;}
+.link 
+{
+	color:red;
+	text-decoration:none;
+		
+	
+}
+a:visited
+{
+	text-decoration:none;
+	color:blue;
+		
+}
+a:hover
+{
+	text-decoration:none;
+	color:red;
+		
+}
+
+.textos{
+	height:20px;
+	width:260px;
+	font-size: 12px;
+	background-color: white;
+	font-family:verdana;
+	text-align:left;
+}
+
+a.saiba_mais { 
+ 
+  text-decoration: none;
+  color: red;
+  
+}
+
+a.saiba_mais:hover{
+
+ text-decoration: none;
+ color: blue;
+
+}
+
+#texto_loguin{
+	
+	background-color:white;
+	width:200px;
+	height:15px;
+	float:left;
+	
+}
+
+#img_carrinho{
+	
+	width:85px;
+	height:85px;
+	background-color:white;
+}
+
+#img_carrinho:hover{
+	
+	width:85px;
+	height:85px;
+}
+
+#texto_carrinho
+{
+	background-color:white;
+	width:200px;
+	height:15px;
+	float:left;
+	
+}
+
+.dropbtn {
+    background-color: #700000;
+    color: white;
+    padding: 16px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+	width:150px;
+	height:40px;
+	border-radius:0.6em;
+	line-height: 10px;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #700000;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+
+.dropdown-content a {
+    color: white;
+   
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown-content a:hover {background-color:#A0522D;
+color:black;}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+	 background-color: #700000;
+	 
+}
+
+
+.dropdown:hover .dropbtn {
+    background-color: #A0522D;
+	border-radius:0em;
+	
+}
+.dropdown-img {
+    position: relative;
+    display: inline-block;
+	border:2px;
+}
+
+.dropdown-content-img {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+}
+
+.dropdown-img:hover .dropdown-content-img {
+    display: block;
+		
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.dropdown-img2 {
+    position: relative;
+    display: inline-block;
+	border:2px;
+}
+
+.dropdown-content-img2 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+}
+
+.dropdown-img2:hover .dropdown-content-img2{
+    display: block;
+		
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.dropdown-img3 {
+    position: relative;
+    display: inline-block;
+	border:2px;
+}
+
+.dropdown-content-img3 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+}
+
+.dropdown-img3:hover .dropdown-content-img3{
+    display: block;
+		
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+/*--------------------------------------------DESENVOLVEDORES------------------------------------------------*/
+#mae4 {   
+
+	 width: 800px;
+	 height:1000px; 
+	 background-color: white;
+     	
+	 
+}
+#des
+{
+	background-color: white;
+	 width: 800;
+	 height:705;
+	 float:left;
+     border: 0px solid black;
+	
+}
+#dentro
+{
+     width: 800;
+	 height: 720;
+	 float:left;
+     border: 0px solid black;
+	 margin:22px;
+	 margin-top:0px;
+}
+#img_mandala
+{
+	 width: 200px;
+	 height: 700;
+	 float:left;
+     border: 1px solid black;
+	 border-right: 0px solid black;
+	 
+	
+}
+#dados
+{
+	 width: 560;
+	 height: 700;
+	 float:left;
+     border: 1px solid black;
+	
+}
+#ab1
+{
+	 width: 500;
+	 height: 100;
+	 float:left;
+     border: 1px solid black;
+	 margin: 10px;
+	 margin-top: 5px;
+}
+#foto
+{
+	 width: 100;
+	 height: 100;
+	 float:left;
+	 border-right: 1px solid black;
+
+}
+#email
+{
+	 width: 390;
+	 height: 90;
+	 float:left;
+	 padding: 3px;
+}
+
+
+/* ----------  Login e Registro abaixo ------------- */
+
+
+
+
+
+
+
+/* FINAL DO LOGIN E REGISTRO */
+
+
+/* INICIO JAVA/CSS IMAGENS INDEX */
+
+#myImg3 {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg3:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal3 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content3 {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 450px;
+}
+
+/* Caption of Modal Image */
+#caption3 {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation */
+.modal-content3, #caption3 {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform: scale(0)}
+    to {-webkit-transform: scale(1)}
+}
+
+@keyframes zoom {
+    from {transform: scale(0.1)}
+    to {transform: scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content3 {
+        width: 100%;
+    }
+}
+
+#myImg2{
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg2:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal2 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content2 {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 450px;
+}
+
+/* Caption of Modal Image */
+#caption2 {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation */
+.modal-content2, #caption2 {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform: scale(0)}
+    to {-webkit-transform: scale(1)}
+}
+
+@keyframes zoom {
+    from {transform: scale(0.1)}
+    to {transform: scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content2 {
+        width: 100%;
+    }
+}
+
+#myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Tem o modelo da imagem (image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 450px;
+}
+
+/* Captação do modelo da imagem */
+#caption{
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Animaçâo de expansão */
+.modal-content, #caption1 {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform: scale(0)}
+    to {-webkit-transform: scale(1)}
+}
+
+@keyframes zoom {
+    from {transform: scale(0.1)}
+    to {transform: scale(1)}
+}
+
+/* Botão Fechar */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Imagem Comprimento na tela menor */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+#myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 450px;
+}
+
+/* Caption of Modal Image */
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation */
+.modal-content, #caption {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform: scale(0)}
+    to {-webkit-transform: scale(1)}
+}
+
+@keyframes zoom {
+    from {transform: scale(0.1)}
+    to {transform: scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+/* FINAL JAVA/CSS IMAGENS INDEX */
+
+
+/* MAPA DE SITE */
+
+#mapa
+{
+	width: 800px;
+	height:300px;
+	background-color:white;
+	float:left;
+	text-align:center;
+	
+	
+	
+	
+}
+#colun1
+{
+	
+	text-align:center;
+	width:100px;
+	height:200px;
+	float:left;
+	background-color:white;
+	
+}
+.link_mapa
+{
+	color:grey;
+}
+a.link_mapa:visited
+{
+	text-decoration:none;
+	color:grey;
+		
+}
+a.link:hover
+{
+	text-decoration:none;
+	color:grey;
+		
+}
+/*INICIO CONTATO*/
+#mae2 {   
+
+	 width: 800px;
+	 height:1100px; 
+	 background-color: white;
+     	
+	 
+}
+#contato2
+{
+	 width: 775px;
+	 height: 800px;
+	 float:center;
+	 background-color:white ;
+	 
+}
+
+#dados2
+{
+	 width: 500px;
+	 height: 180px;
+	 float:center;
+	 background-color:gray ;
+	 border:solid;
+	 border-top-width:50px;
+     border-color:white;
+}
+
+#mapa2
+{
+	 width: 600px;
+	 height: 450px;
+	 float:center;
+	 background-color:gray ;
+	 border:solid;
+	 border-top-width:70px;
+     border-color:white;
+}
+.abc
+{
+	text-align:left;
+}
+/*FECHA CONTATO*/
+
+/*Logar e java da senha */
+#submae
+{
+	margin-top:70px;
+	float:left;
+	width:790px;
+	height:800px;
+	background-color:white;
+	
+	
+}
+
+#login
+{
+	float:center;
+	width:200px;
+	height:100px;
+	background-color:white;
+
+}
+
+#campo_login
+{
+	
+	text-align:left;
+	float:left;
+	width:200px;
+	height:40px;
+	background-color:lightgray;
+
+}
+
+#campo_senha
+{
+	
+	text-align:left;
+	float:left;
+	width:200px;
+	height:100px;
+	background-color:lightgray;
+
+
+}
+
+#registro
+{
+	margin-top:40px;
+	float:center;
+	width:300px;
+	height:500px;
+	background-color:lightgray;
+	
+	
+}
+
+
+#campo_senha_r
+{
+	
+	text-align:left;
+	float:left;
+	width:300px;
+	height:70px;
+	background-color:lightgray;
+
+
+}
+
+#back_cadastro{
+	
+	width:800px;
+	height:20px;
+	background-color:lightgray;
+	float:center;
+}
+#links_cadastro
+{
+	 background-color:lightgray;
+	 float:center; 
+     width: 800px;
+     height: 40px;
+
+	 text-decoration: none;
+}
+#desenvolvedores_cadastro{
+	
+	text-decoration:none;
+	width:800px;
+	height:60px;
+	background-color:white;
+	float:left;
+	
+}
+
+
+#campo_login_r
+{
+	
+	width:200px;
+	height:35px;
+	float:left;
+	text-align:left;
+	background-color:lightgray;
+	
+}
+
+#cadastro_nome
+{
+	
+	width:200px;
+	height:35px;
+	float:left;
+	text-align:left;
+	background-color:lightgray;
+	
+}
+
+
+#cadastro_sobrenome
+{
+	
+	
+	width:200px;
+	height:35px;
+	float:left;
+	text-align:left;
+	background-color:lightgray;
+}
+
+
+#cadastro_data-nasc
+{
+	
+	
+	width:200px;
+	height:40px;
+	float:left;
+	text-align:left;
+	background-color:lightgray;
+}
+
+
+#cadastro_genero
+{
+	
+	width:200px;
+	height:120px;
+	float:left;
+	text-align:left;
+	background-color:lightgray;
+	
+}
+
+#cadastro_email
+{
+	width:200px;
+	height:70px;
+	float:left;
+	text-align:left;
+	background-color:lightgray;
+}
+
+
+#input_r
+{
+	width:200px;
+	height:40px;
+	float:left;
+	text-align:left;
+	background-color:lightgray;
+	
+	
+}
+
+
+
+/*Termina logar e java da senha */
+/*--------------------------------------------Curiosidades------------------------------------------------*/
+#mae3
+{
+	 width: 800px;
+	 height:1100px; 
+	 background-color: white;
+	
+	
+}
+#curiosidades
+{
+	width: 800px;
+	 height:1500px; 
+	 background-color: black;
+}
+#img3
+{
+	width: 250px;
+	 height:250px; 
+	 background-color: green;
+	float:left;
+     border-left:10px solid white;
+	 border-top:10px solid white;
+	
+}
+#img3a
+{
+	width: 250px;
+	 height:250px; 
+	 background-color: green;
+	float:left;
+     border-right:10px solid white;
+	 border-left:10px solid white;
+	 border-top:10px solid white;
+	
+}
+#img3b
+{
+	width: 250px;
+	 height:250px; 
+	 background-color: green;
+	float:left;
+     border-left:10px solid white;
+	 border-top:10px solid white;
+	 border-bottom:10px solid white;
+}
+#texto3
+{
+	width: 520px;
+	 height:250px; 
+	 background-color: red;
+	 float:left;
+	 	border-left:10px solid white;
+	 border-top:10px solid white;
+	    border-right:10px solid white;
+
+	
+}
+#texto3a
+{
+	border-top:10px solid white;
+	width: 520px;
+	 height:250px; 
+	 background-color: red;
+	 float:left;
+	 border-left:10px solid white;
+	 	
+	 
+
+	
+}
+#texto3b
+{
+	width: 520px;
+	 height:250px; 
+	 background-color: red;
+	 float:left;
+	 	border-left:10px solid white;
+	 border-top:10px solid white;
+	 border-bottom:10px solid white;
+	    border-right:10px solid white;
+
+	
+}
+#Img33
+{
+	 width: 780px;
+	 height: 500px; 
+	 float:left;
+	 background-color: blue;
+	 border:10px solid white;
+	 border-top:0px solid white;
+}
+#Text33
+{
+	 width: 780px;
+	 height: 200px; 
+	 float:left;
+	 background-color: pink;
+	 border:10px solid white;
+	 border-top:0px solid white;
+}
+/*FIM CURIOSIDADES*/
+
+#mapa_logar
+{
+	width: 800px;
+	height:300px;
+	background-color:white;
+	float:left;
+	text-align:center;
+	
+	
+	
+	
+}
+#colun1
+{
+	
+	text-align:center;
+	width:100px;
+	height:200px;
+	float:left;
+	background-color:white;
+	
+}
+.link_mapa
+{
+	color:grey;
+}
+a.link_mapa:visited
+{
+	text-decoration:none;
+	color:grey;
+		
+}
+a.link:hover
+{
+	text-decoration:none;
+	color:grey;
+		
+}
+.btn_minhaconta
+{
+	margin-top:30px;
+
+	
+}
+/*----------------estilo_produto-----------*/
+#mae_pesquisa
+{   
+	width: 800px;
+	height:800px;
+	background-color:white;
+	color:white;
+}
+
+#produto_pesquisar
+{   
+	width: 200px;
+	height: 320px;
+	float: left;
+	background-color:white;
+	color:black;
+}
+
+#pesquisa_pesquisar
+{
+	width: 200px;
+	height: 1000px;
+	float: left;
+	background-color:700000;
+	color:white;
+}
+
+#pagina_pesquisar
+{
+	width: 590px;
+	height: 40px;
+	float: left;
+	background-color:white;
+	line-height: 40px;
+	color:white;
+}
+
+
+
+#textbox_nome
+{
+	font-family: 'Raleway', sans-serif;
+	font-size: 12;
+	width: 180px;
+}
+
+#fonte
+{
+	font-family: 'Raleway', sans-serif;
+	font-size: 12;
+}
+/*----------------------------------------------------------------------------*/
+
+

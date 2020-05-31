@@ -1,0 +1,512 @@
+/* CSS MINHA CONTA */
+Body {
+    background-image: url(imagens/plano8.jpg);
+    margin-top: 0px;
+	font-family:verdana;
+	font-size: 12px;
+	
+}
+
+h1 {
+	font-size: 14;
+}
+
+a{
+	text-decoration:none;
+	
+}
+v.link{
+	text-decoration:none;
+	color:blue;
+}
+a.link{
+	text-decoration: none;
+	color:blue;
+}
+
+.link_mapa
+{
+	color:grey;
+	text-align:justify;
+	text-decoration:none;
+}
+a.link_mapa:visited
+{
+	text-decoration:none;
+	color:grey;
+	text-decoration:none;	
+}
+a.link:hover
+{
+	text-decoration:none;
+	color:grey;
+		
+}
+
+#colun1
+{
+	
+	text-align:justify;
+	width:100px;
+	height:200px;
+	float:left;
+	background-color:white;
+	padding-left:10px;
+	text-decoration:none;
+	
+	
+}
+
+
+
+#mapa
+{
+	width: 800px;
+	height:300px;
+	background-color:white;
+	float:left;
+	text-align:center;
+	text-decoration:none;
+	
+	
+	
+	
+}
+#mae {   
+
+	 width: 800px;
+	 height:1015px; 
+	 background-color: white;
+	 text-decoration:none;
+     	
+	 
+}
+
+#logo {
+	
+	 background-color: white ;
+     width:800;
+     height:115px;
+     float:left;
+	 border-bottom: 7px solid white;
+	 text-decoration:none;
+}
+#img_logo {
+	
+	 background-color: white;
+     width: 225;
+     height:100;
+     float:left;
+	 text-decoration:none;
+}
+#menu {
+	 background-color: white;
+    	 float:left;
+    	 width: 800;
+    	 height:50;  
+	 border-left: 0px;
+	 border-right: 0px;
+	 border-bottom: 1px solid white;
+	 border-top: 1px solid white;
+	 font-size:14;
+	 
+} 
+#btn {
+	 margin-left:8.5px;
+	
+     background-color: 700000;
+     float:left; 
+     width: 150px;
+     height:40;
+	 color: white;
+	 font-size:14;
+	 text-decoration: none;
+	 line-height: 38px;
+	 border-radius:0.6em;
+}
+#btn2 {
+	 margin-left:8.5px;
+	
+     background-color: 700000;
+     float:left; 
+     width: 150px;
+     height:40;
+	 color: white;
+	 
+	 text-decoration: none;
+	 line-height: 38px;
+	 border-radius:0.6em;	
+	
+}
+#btn:hover {
+	background-color: #A0522D;
+        color:black;
+	text-decoration: none;
+}
+#back{
+	
+	width:800px;
+	height:20px;
+	background-color: white;
+	float:left;
+}
+
+#links
+{
+	 background-color: white;
+	 float:left; 
+     width: 800px;
+     height: 40px;
+	 text-decoration: none;
+}
+
+
+#icones_logo
+{
+	background-color: white;
+	width:400px;
+	float:right;
+	height: 100px;
+	
+}
+
+#icone_carrinho 
+{
+	width:200px;
+	float:left;
+	height:100px;
+	background-color:white;
+	
+}
+
+#icone_loguin
+{
+	width:200px;
+	float:right;
+	height:100px;
+	background-color:white;
+	
+	
+}
+
+
+#desenvolvedores{
+	
+	text-decoration:none;
+	width:800px;
+	height:60px;
+	background-color: white;
+	float:left;
+	
+}
+
+
+#de_1
+{
+	margin-top:5px;
+	margin-left:5px;
+	height:20px;
+	width:195px;
+	float:left;
+}
+
+#de_2
+{
+	margin-top:5px;
+	margin-left:5px;
+	height:20px;
+	width:195px;
+	float:left;
+}
+
+#de_3
+{
+	margin-top:5px;
+	margin-left:5px;
+	height:20px;
+	width:195px;
+	float:left;
+}
+#de_4
+{
+	margin-top:5px;
+	margin-left:5px;
+	height:20px;
+	width:195px;
+	float:left;
+}
+
+
+
+.dropbtn {
+    background-color: #700000;
+    color: white;
+    padding: 16px;
+ 
+    border: none;
+    cursor: pointer;
+	width:150px;
+	height:40px;
+	border-radius:0.6em;
+	line-height: 10px;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #700000;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+
+.dropdown-content a {
+    color: white;
+   
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown-content a:hover {background-color:#A0522D;
+color:black;}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+	 background-color: #700000;
+	 
+}
+
+
+.dropdown:hover .dropbtn {
+    background-color: #A0522D;
+	border-radius:0em;
+	
+}
+.dropdown-img {
+    position: relative;
+    display: inline-block;
+	border:2px;
+}
+
+.dropdown-content-img {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+}
+
+.dropdown-img:hover .dropdown-content-img {
+    display: block;
+		
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.dropdown-img2 {
+    position: relative;
+    display: inline-block;
+	border:2px;
+}
+
+.dropdown-content-img2 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+}
+
+.dropdown-img2:hover .dropdown-content-img2{
+    display: block;
+		
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.dropdown-img3 {
+    position: relative;
+    display: inline-block;
+	border:2px;
+}
+
+.dropdown-content-img3 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+}
+
+.dropdown-img3:hover .dropdown-content-img3{
+    display: block;
+		
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#dados_mc
+{
+	width:800px;
+	float:right;
+	background-color:white;
+	height:300px;
+	
+	
+}
+
+#submae_mc
+{
+	width:800px;
+	height:400px;
+	float:left;
+	
+}
+
+
+.btn_mc {
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  
+  color: #ffffff;
+
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  border: solid #ffffff 2px;
+  text-decoration: none;
+}
+
+.btn_mc:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+/* TESTE BOTAO ALTERA SENHA */
+
+
+
+
+
+
+.cabeçalho_alterasenha  /*cabelalho*/
+{
+	float:right;
+	margin:20px;
+}
+
+#input_alterasenha /* parte de dentro */
+{
+    margin-top: 0px;  
+    margin-bottom: 30px; 
+    background: #3498db;
+    width: 200px; height: 200px;
+	color:white;
+}
+
+
+
+#cabeçalho_hover_alterasenha /* parte de cima */
+{
+    display: block;
+    width: 200px;
+    height: 35px;
+    line-height: 35px;
+    background: #3498db;
+    text-align: center;
+    color: white;
+  
+    text-decoration:none;
+}
+
+#cabeçalho_hover_alterasenha:hover 
+{
+	
+    text-decoration:none;
+    color: #fff;
+    background: #6c07ba;
+   
+}
+#historico_compra
+{
+	width:300px;
+	height:350px;
+	background-color:white;
+	float:right;
+	margin-top:25px;
+	
+}
+
+#formulario 
+{
+	width:200px;
+	height:350px;
+	margin-top:25px;
+	margin:25px;
+	float:left;
+	
+}
+
